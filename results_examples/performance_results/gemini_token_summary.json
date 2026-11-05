@@ -1,0 +1,8 @@
+{
+    "successfully_processed_invoices": 5,
+    "total_input_tokens": 5357,
+    "total_output_tokens": 534,
+    "total_reported_tokens": 11004,
+    "average_input_tokens": 1071.4,
+    "average_output_tokens": 106.8
+}

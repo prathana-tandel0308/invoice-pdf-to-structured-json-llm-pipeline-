@@ -1,0 +1,11 @@
+{
+    "supplier_name": "Brightpath Consulting LLC",
+    "customer_name": "Harlow & Finch Interiors Inc.",
+    "invoice_number": "BP-2026-0114",
+    "invoice_date": "2026-01-22",
+    "due_date": "2026-02-21",
+    "subtotal": "1000",
+    "tax": "80",
+    "total": "1080",
+    "currency": "USD"
+}

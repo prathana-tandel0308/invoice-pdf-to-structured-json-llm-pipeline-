@@ -1,0 +1,65 @@
+{
+    "total_invoices": 8,
+    "full_markdown_tokens": 5040,
+    "filtered_markdown_tokens": 3299,
+    "tokens_saved": 1741,
+    "overall_token_reduction_percentage": 34.54,
+    "invoice_results": [
+        {
+            "invoice": "invoice_01_simple.md",
+            "full_markdown_tokens": 240,
+            "filtered_markdown_tokens": 229,
+            "tokens_saved": 11,
+            "token_reduction_percentage": 4.58
+        },
+        {
+            "invoice": "invoice_02_multipage.md",
+            "full_markdown_tokens": 1761,
+            "filtered_markdown_tokens": 1182,
+            "tokens_saved": 579,
+            "token_reduction_percentage": 32.88
+        },
+        {
+            "invoice": "invoice_03_irrelevant_content.md",
+            "full_markdown_tokens": 1525,
+            "filtered_markdown_tokens": 677,
+            "tokens_saved": 848,
+            "token_reduction_percentage": 55.61
+        },
+        {
+            "invoice": "invoice_05_complex_calculations.md",
+            "full_markdown_tokens": 400,
+            "filtered_markdown_tokens": 361,
+            "tokens_saved": 39,
+            "token_reduction_percentage": 9.75
+        },
+        {
+            "invoice": "invoice_06_missing_information.md",
+            "full_markdown_tokens": 180,
+            "filtered_markdown_tokens": 166,
+            "tokens_saved": 14,
+            "token_reduction_percentage": 7.78
+        },
+        {
+            "invoice": "invoice_07_ambiguous.md",
+            "full_markdown_tokens": 378,
+            "filtered_markdown_tokens": 305,
+            "tokens_saved": 73,
+            "token_reduction_percentage": 19.31
+        },
+        {
+            "invoice": "invoice_08_scanned.md",
+            "full_markdown_tokens": 244,
+            "filtered_markdown_tokens": 232,
+            "tokens_saved": 12,
+            "token_reduction_percentage": 4.92
+        },
+        {
+            "invoice": "invoice_10_unusual_layout.md",
+            "full_markdown_tokens": 312,
+            "filtered_markdown_tokens": 147,
+            "tokens_saved": 165,
+            "token_reduction_percentage": 52.88
+        }
+    ]
+}

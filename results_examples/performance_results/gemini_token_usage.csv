@@ -1,0 +1,6 @@
+invoice,input_tokens,output_tokens,total_tokens
+invoice_01_simple.md,719,102,1420
+invoice_02_multipage.md,1932,104,2592
+invoice_03_irrelevant_content.md,1193,135,1663
+invoice_05_complex_calculations.md,879,104,1843
+invoice_06_missing_information.md,634,89,3486

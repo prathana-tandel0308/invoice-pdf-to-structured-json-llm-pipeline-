@@ -1,0 +1,11 @@
+{
+    "supplier_name": "Zylker",
+    "customer_name": "Rob & Joe Traders",
+    "invoice_number": "INV-17",
+    "invoice_date": "2018-05-21",
+    "due_date": "2018-05-21",
+    "subtotal": "630",
+    "tax": "32.75",
+    "total": "662.75",
+    "currency": "INR"
+}
